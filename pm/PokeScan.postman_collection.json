@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "63f44263836a8452dbf0e8fe"
+  },
+  "name": "Glameow",
+  "cp": "CP210",
+  "location": "Sun Valley, Washoe Count",
+  "lv": "L8",
+  "dex": "431",
+  "img": "https://img.pokemondb.net/artwork/large/glameow.jpg",
+  "iv": "IV100"
+}]

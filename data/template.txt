@@ -1,0 +1,6 @@
+Name: ${pkName}
+DEX: ${pkDEX}
+IV: ${pkIV}
+CP: ${pkCP}
+LV: ${pkLV}
+Location: ${pkLocation}
